@@ -1,7 +1,8 @@
+// Created by Yug Khandelwal for ETHGlobal Mumbai 2026
 // SPDX-License-Identifier: MIT    
 pragma solidity ^0.8.20;
   
-contract DelhiVote {
+contract MumbaiVote {
     struct Proposal {
         string name;
         uint256 voteCount;
